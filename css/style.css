@@ -1,0 +1,131 @@
+#img1{
+	background: url(../img/subbu/vijay.jpg);
+    background-size: cover;
+    border-radius: 5px;
+}   
+#img2{
+	background: url(../img/subbu/nish.jpg);
+    background-size: cover;
+    border-radius: 5px;
+}   
+ #img3{
+	background: url(../img/subbu/vishal.jpg);
+    background-size: cover;
+    border-radius: 5px;
+} 
+#img4{
+	background: url(../img/subbu/sriram.jpg);
+    background-size: cover;
+    border-radius: 5px;
+} 
+#img5{
+	background: url(../img/subbu/anupa.jpg);
+    background-size: cover;
+    border-radius: 5px;
+} 
+#img6{
+	background: url(../img/subbu/bhargavi.jpg);
+    background-size: cover;
+    border-radius: 5px;
+} 
+#img7{
+	background: url(../img/subbu/supritha.jpg);
+    background-size: cover;
+    border-radius: 5px;
+} 
+#img8{
+	background: url(../img/subbu/ananth.jpg);
+    background-size: cover;
+    border-radius: 5px;
+} 
+#img9{
+	background: url(../img/subbu/kaanthi.jpg);
+    background-size: cover;
+    border-radius: 5px;
+} 
+
+#iphonedp{
+	height: 100%;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item img {
+    width: 100%;
+    height: 100%;
+}
+.carousel-inner{
+	background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430);
+	color: white;
+}
+
+.carousel-inner > .item > .img-text{
+	margin: 15% 0;
+}
+
+.carousel {
+    position: relative;
+    width: 100%;
+    height: 50%;
+    padding: 0;
+}
+section.cta{
+	padding: 0;
+	background-image:none;
+
+}
+
+.header-content-inner .label{
+	font-size: 70%;
+}
+
+#myCarousel .carousel-inner .item img {
+    width: 100%;
+    max-height: 550px;
+    min-height: 550px;
+}
+
+section.success {
+    background: #fdc539;
+    color: #fff;
+}
+
+hr.star-light:after, hr.star-primary:after {
+    content: "\f005";
+    font-family: FontAwesome;
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    font-size: 2em;
+    padding: 0 .25em;
+}
+hr.star-light, hr.star-primary {
+    padding: 0;
+    border: none;
+    border-top: solid 5px;
+    text-align: center;
+    max-width: 250px;
+    margin: 25px auto 30px;
+}
+hr.star-light:after {
+    background-color: #fdc539;
+    color: #fff;
+}
+
+#about h2, #about h3, #highlights h3{
+	font-weight: 500;
+}
+#about h3{
+	font-size: 30px;
+}
+#about{
+	font-size: 25px;
+}
+.bg-primary{
+	    background: linear-gradient(#18BC9C, #fdc539);
+}
+#contact .container img {
+    width: 300px;
+    height: auto;
+}
+#contact .container{
+	margin-bottom: 5%;
+}
